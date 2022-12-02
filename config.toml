@@ -1,10 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://ignacioarce.netlify.app/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "Ignacio Arce"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
